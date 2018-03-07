@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="icon_select">&#xe914;</string>
+    <string name="icon_selected">&#xe915;</string>
+
+    <string name="icon_shequ_zhuanjia">&#xe978;</string>
+    <string name="icon_shequ_zan2">&#xe977;</string>
+    <string name="icon_shequ_zan1">&#xe976;</string>
+    <string name="icon_shequ_tip">&#xe975;</string>
+    <string name="icon_shequ_next">&#xe974;</string>
+    <string name="icon_shequ_fatie4">&#xe973;</string>
+    <string name="icon_shequ_fatie3">&#xe972;</string>
+    <string name="icon_shequ_fatie2">&#xe971;</string>
+    <string name="icon_shequ_fatie1">&#xe970;</string>
+    <string name="icon_navbar19">&#xe96e;</string>
+    <string name="icon_shequ_eye">&#xe96f;</string>
+    <string name="icon_navbar18">&#xe96d;</string>
+    <string name="icon_collection2">&#xe96c;</string>
+    <string name="icon_collection1">&#xe96b;</string>
+    <string name="icon_shequ_lianjie">&#xe97a;</string>
+    <string name="icon_v">&#xe97b;</string>
+    <string name="icon_shequ_pinglun">&#xe97c;</string>
+    <string name="icon_shequ_fatie5">&#xe97d;</string>
+    <string name="icon_shequ_zanwu">&#xe97e;</string>
+
+
+</resources>

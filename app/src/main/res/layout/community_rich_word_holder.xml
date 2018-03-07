@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/content_item"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+>
+    <com.tlioylc.myricheditor.CustomImageView1
+        android:id="@+id/image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+    <com.tlioylc.myricheditor.CustomVideoURLView
+        android:id="@+id/video"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+    <EditText
+        android:id="@+id/text"
+        android:textColor="#99ffffff"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        android:lineSpacingExtra = "4dp"
+        android:textSize="16sp"
+        android:gravity="center_vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textCursorDrawable="@null"
+        android:textColorHint="@color/font3"
+        android:background="@null"/>
+</FrameLayout>

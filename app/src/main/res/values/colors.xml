@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#171717</color>
+    <color name="colorPrimary">#171717</color>
+    <color name="colorPrimaryDark">#171717</color>
+
+    <color name="primary">#171717</color>
+    <color name="primary_dark">#0b0b0b</color>
+    <color name="font1">#ffffff</color>
+    <color name="font2">#99ffffff</color>
+    <color name="font3">#66ffffff</color>
+    <color name="font4">#18ffff</color>
+
+
+    <color name="line1">#1fffffff</color>
+    <color name="line2">#ffffff</color>
+
+    <color name="btn_bg1">#1affffff</color>
+    <color name="btn_bg1_focus">#32ffffff</color>
+
+</resources>

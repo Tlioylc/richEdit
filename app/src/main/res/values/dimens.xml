@@ -1,0 +1,11 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="type1">18sp</dimen>
+    <dimen name="type2">16sp</dimen>
+    <dimen name="type3">15sp</dimen>
+    <dimen name="type4">13sp</dimen>
+    <dimen name="type5">12sp</dimen>
+
+    <dimen name="title">18sp</dimen>
+</resources>
